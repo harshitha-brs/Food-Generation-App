@@ -47,7 +47,7 @@ async function getCompletions() {
     presence_penalty: 0,
     max_tokens: 500,
     stream: true,
-    n: 10,
+    n: 1,
     prompt
   };
 
